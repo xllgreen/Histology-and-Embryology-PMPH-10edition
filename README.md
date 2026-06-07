@@ -35,9 +35,13 @@
 
 **参考教材**：人民卫生出版社《组织学与胚胎学》第 10 版
 
-**⚠️风险⚠️**：该技能涵盖组织学结构识别、胚胎发育机制、先天畸形分类及临床病理关联，这些内容可能被误用为独立的医疗建议。
+**⚠️风险⚠️**：技能包包含可能被误认为诊断、治疗、怀孕、输血、免疫治疗、外科、急诊或危险实验室指导的医学教育内容。
 
-缓解措施：仅将输出作为教育或临床医师审核的参考资料使用，并根据当前官方指南、本地方案和合格专家核实建议。
+缓解措施：仅将输出作为教育或参考资料使用，并与合格专业人员、当前的本地指南及权威来源核实任何医疗、实验室或临床决策。
+
+**⚠️风险⚠️**：若干子技能提供直接的临床或实验室操作指导，但缺乏足够的运行安全界限。
+
+缓解措施：在敏感环境中使用前，审查相关子技能输出，并设置部署护栏，将诊断、治疗和操作决策引导至合格监督机构。
 
 ## 项目结构
 
@@ -80,6 +84,18 @@ Histology-Embryology-PMPH-10edition/
 CLI：
 ```bash
 openclaw skills install histology-and-embryology-pmph-10edition
+```
+
+Prompt：
+```bash
+Before installing anything, inspect the ClawHub skill metadata and setup requirements.
+If the skill asks you to install a third-party package or CLI, verify its source, maintainer, and package contents before running the install command.
+Install the skill "Histology and Embryology-PMPH-10edition" (xllgreen/histology-and-embryology-pmph-10edition) from ClawHub only after those checks pass.
+Skill page: https://clawhub.ai/xllgreen/histology-and-embryology-pmph-10edition
+Keep the work scoped to this skill only.
+After install, help me finish setup from verified skill metadata.
+Use only the metadata you can verify from ClawHub; do not invent missing requirements.
+Ask before making any broader environment changes.
 ```
 
 ### 使用方式
@@ -202,10 +218,10 @@ Xiaomi Mimo API：https://platform.xiaomimimo.com/
 
 ## Star History
 
-<a href="https://www.star-history.com/#xllgreen/Histology-Embryology-PMPH-10edition&Date">
+<a href="https://www.star-history.com/?repos=xllgreen%2FHistology-and-Embryology-PMPH-10edition&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xllgreen/Histology-Embryology-PMPH-10edition&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xllgreen/Histology-Embryology-PMPH-10edition&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xllgreen/Histology-Embryology-PMPH-10edition&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Histology-and-Embryology-PMPH-10edition&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Histology-and-Embryology-PMPH-10edition&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Histology-and-Embryology-PMPH-10edition&type=date&legend=top-left" />
  </picture>
 </a>
