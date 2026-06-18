@@ -11,7 +11,7 @@
 > 基于人民卫生出版社《组织学与胚胎学》第10版的技能手册 — 124 项核心形态学与胚胎学技能
 <br>
 <br>
-<img src="/assets/Histology-Embyology.png" width="260px">
+<img src="/assets/Histology-Embryology-PMPH-10edition.jpg" width="260px">
 <br>
 
 何必苦苦读一本书<br>
